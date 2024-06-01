@@ -52,4 +52,3 @@ Create an environment file with extension ```.env```.
 ## Running the project
 
 - To execute the code, run the following command ```npm start```
-- Run the command ```npm t``` for testing
